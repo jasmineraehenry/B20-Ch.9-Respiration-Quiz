@@ -26,6 +26,7 @@ h1 {
 .option-btn {
     display: block;
     width: 100%;
+    color: black;
     text-align: left;
     background: #ecf0f1;
     border: 2px solid #bdc3c7;
